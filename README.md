@@ -1,4 +1,5 @@
 # Test Coverage Criteria
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/70295997/213069786-2b8df48b-2f4c-41cd-89b8-6283d26cd6b1.png">
 
 Customers today have high standards when it comes to technology. They expect apps to run smoothly without bugs disrupting their digital experiences. With the growth of IoT, powering important devices such as home security systems, errors and outages can have serious consequences.
 
