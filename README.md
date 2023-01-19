@@ -44,7 +44,9 @@ The only way to ensure a quality user experience is to replicate the user's envi
 
 In order to have consistent and dependable testing, teams should align their testing with market usage patterns. This includes customizing test coverage to reach the geographies where their apps are used, as consumers expect seamless app functionality across digital channels. The good news is, using automated parallel cloud-based testing, teams can create a test coverage strategy and methodology without spending hours on it. The [Test Coverage Index](https://www.perfecto.io/test-coverage-guide) is a valuable resource that can assist teams in creating a test coverage plan that will adapt to their needs and their customers. The index takes into account all device and OS combinations across 13 different countries, paired with other characteristics such as device age, screen parameters and other testing related guidelines to provide data-driven test coverage of the mobile market.
 
+----
 
+[Software Testing Metrics and KPIs](https://docs.google.com/presentation/d/1Osn-oz8k4WRnUYHE-jL1aqrgDwdlbQIakTpt4mgkls0/edit#slide=id.gc0bb5793f4_1_0)
 
 
 
